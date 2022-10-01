@@ -13,3 +13,6 @@ def guess(x):
             print(f'Congrats, right number {random_number}')
 
 print(guess(10))
+
+# Ezra Adeyinka
+# https://github.com/adeyinkaezra123
